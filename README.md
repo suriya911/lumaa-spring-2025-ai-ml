@@ -54,11 +54,11 @@ It is recommended to use a virtual environment to keep dependencies isolated.
 
 ### Input:
 
-![Demo Image](Pics\1.png "Input")
+![Demo Image](Pics\1.png)
 
 ### Output:
 
-![Demo Image](Pics\2.png "Output")
+![Demo Image](Pics\2.png)
 
 ## 🎥 Demo
 
