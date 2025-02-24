@@ -63,7 +63,7 @@ It is recommended to use a virtual environment to keep dependencies isolated.
 ## 🎥 Demo
 
 A short screen recording demonstrating the recommendation system can be found here:  
-[📹 Demo Video](https://drive.google.com/file/d/1XVGG6QJxW7CaY2ImjF2fz5dmVDkw6Mwp/view?usp=sharing)
+[📹 Demo Video](https://drive.google.com/drive/folders/11PLhNxO_XMgu0RjuEpTnhcXLZ92gOewp?usp=sharing)
 
 ## 📝 Author Information
 
